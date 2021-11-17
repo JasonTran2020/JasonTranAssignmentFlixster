@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
 
 
     //THIS HAS THE KEY SHOULD PROBABLY DELETE IT BEFORE COMMITTING.
-    public static final String NOW_PLAYING_URL="https://api.themoviedb.org/3/movie/now_playing?api_key=API_KEY_GOES_HERE";
+    public static final String NOW_PLAYING_URL="https://api.themoviedb.org/3/movie/now_playing?api_key=API KEY GOES HERE";
     //THIS HAS THE KEY SHOULD PROBABLY DELETE IT BEFORE COMMITTING ABOVE.
     public static final String TAG="MainActivity";
 
